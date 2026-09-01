@@ -1,0 +1,32 @@
+{
+    "task": [
+        {
+            "id": 1,
+            "task": "Buy milk",
+            "status": "done",
+            "createdAt": "2026-09-01T11:47:03.598589",
+            "updatedAt": "2026-09-01T11:48:08.214309"
+        },
+        {
+            "id": 2,
+            "task": "Feed the dog",
+            "status": "in-progress",
+            "createdAt": "2026-09-01T11:47:12.098040",
+            "updatedAt": "2026-09-01T11:48:35.683693"
+        },
+        {
+            "id": 3,
+            "task": "Deploy the app",
+            "status": "todo",
+            "createdAt": "2026-09-01T11:47:19.934996",
+            "updatedAt": "2026-09-01T11:47:19.934996"
+        },
+        {
+            "id": 4,
+            "task": "Sleep",
+            "status": "todo",
+            "createdAt": "2026-09-01T11:47:30.797903",
+            "updatedAt": "2026-09-01T11:47:30.797903"
+        }
+    ]
+}
